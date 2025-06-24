@@ -1,0 +1,1554 @@
+[
+  {
+    "Country": "Afghanistan",
+    "Dish": "Kabuli Palaw",
+    "Description": "The crown jewel of Afghan cuisine featuring basmati rice cooked with lamb, caramelized carrots, raisins and aromatic spices like cardamom and cumin.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Kabuli_palaw",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Qabili_Palaw.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Albania",
+    "Dish": "Tavë Kosi",
+    "Description": "Albania's national comfort food - baked lamb and rice casserole with a velvety yogurt-egg sauce flavored with garlic and oregano.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Tav%C3%AB_kosi",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tav%C3%AB_kosi.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Algeria",
+    "Dish": "Couscous",
+    "Description": "Steamed semolina grains traditionally served with vegetables, chickpeas and slow-cooked meat in a flavorful broth, central to Algerian hospitality.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Couscous",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Couscous-1.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Andorra",
+    "Dish": "Escudella",
+    "Description": "Andorra's hearty winter stew with pork, chicken, meatballs and giant pasta shells, often served in two courses (broth first, then meats).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Escudella",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Escudella.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Angola",
+    "Dish": "Muamba de Galinha",
+    "Description": "Flavorful chicken stew made with red palm oil, garlic, okra and chili peppers, traditionally served with funge (cassava porridge).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Muamba_de_galinha",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Muamba_de_galinha.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Dish": "Fungee and Pepperpot",
+    "Description": "National dish pairing cornmeal-and-okra dumplings (fungi) with a rich stew of salted meat, vegetables and fiery Antiguan peppers.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Fungee_and_pepperpot",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Antigua_and_Barbuda_cuisine.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Argentina",
+    "Dish": "Asado",
+    "Description": "Argentina's famous barbecue featuring various cuts of beef, chorizo and morcilla sausages, slow-cooked over wood or charcoal fires.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Asado",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Asado_argentino.jpg",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Armenia",
+    "Dish": "Khorovats",
+    "Description": "Armenian-style barbecue where marinated pork, lamb or chicken is grilled on skewers over open flames, often served with lavash bread.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Khorovats",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Armenian_Khorovats.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Australia",
+    "Dish": "Meat Pie",
+    "Description": "Iconic handheld pie filled with minced beef and gravy, often topped with tomato sauce ('ketchup'), considered Australia's national fast food.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Australian_Meat_Pie",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Party_pie.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Austria",
+    "Dish": "Wiener Schnitzel",
+    "Description": "Crispy breaded veal cutlet pounded thin, fried to golden perfection, traditionally served with lemon wedges and potato salad.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Wiener_Schnitzel",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Wiener-Schnitzel02.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Azerbaijan",
+    "Dish": "Plov",
+    "Description": "Azerbaijani rice pilaf featuring saffron-infused rice layered with dried fruits, chestnuts and meat, cooked in a special copper pot called kazan.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Plov",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Azerbaijani_plov.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bahamas",
+    "Dish": "Conch Salad",
+    "Description": "Fresh raw conch marinated in lime juice with tomatoes, onions and peppers - a refreshing Bahamian ceviche-style dish.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Conch_salad",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Conch_salad.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Bahrain",
+    "Dish": "Machboos",
+    "Description": "Bahrain's spiced rice dish with meat (usually chicken or lamb), flavored with loomi (dried lime) and baharat spice blend.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Machboos",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Machboos.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bangladesh",
+    "Dish": "Hilsa Curry",
+    "Description": "Celebrated Bengali dish featuring the prized hilsa fish cooked in mustard gravy with turmeric and chili - the taste of monsoon season.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Ilish",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ilish_macher_Jhol.JPG",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Barbados",
+    "Dish": "Cou-Cou and Flying Fish",
+    "Description": "National dish pairing cornmeal-and-okra cou-cou with pan-fried flying fish in a tomato-based sauce, reflecting Barbados' maritime heritage.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Cou-cou",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Cou-cou_and_flying_fish.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Belarus",
+    "Dish": "Draniki",
+    "Description": "Crispy Belarusian potato pancakes made from grated potatoes and onions, traditionally served with sour cream or mushroom sauce.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Draniki",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Draniki.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Belgium",
+    "Dish": "Moules-frites",
+    "Description": "Classic Belgian pairing of steamed mussels in white wine broth with crispy twice-fried potatoes, served in dedicated mussel pots.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Moules-frites",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Moules-frites.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Belize",
+    "Dish": "Rice and Beans",
+    "Description": "Belize's daily staple featuring red beans and rice cooked in coconut milk, typically served with stewed chicken and potato salad.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Rice_and_beans",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Belizean_Rice_and_Beans.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Benin",
+    "Dish": "Kuli-Kuli",
+    "Description": "Crunchy West African snack made from ground peanuts pressed into shapes and deep-fried, often served as a protein-rich accompaniment to meals.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Kuli-kuli",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Kuli-kuli.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Bhutan",
+    "Dish": "Ema Datshi",
+    "Description": "Bhutan's famous chili and cheese stew where green or red chilies are cooked in a sauce of local yak cheese, butter and tomatoes.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Ema_datshi",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ema_datshi.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bolivia",
+    "Dish": "Salteñas",
+    "Description": "Bolivian baked empanadas with a sweetish dough filled with juicy meat, potatoes, peas and olives, distinguished by their tear-drop shape.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Salte%C3%B1a",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Saltenas.jpg",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Dish": "Ćevapi",
+    "Description": "Small grilled minced meat sausages made from beef and lamb, served in somun (flatbread) with raw onions and kajmak (creamy dairy spread).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/%C4%86evapi",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/%C4%86evapi.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Botswana",
+    "Dish": "Seswaa",
+    "Description": "Traditional Botswana pounded meat dish where beef or goat is boiled with salt until tender, then shredded and served with pap (maize porridge).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Seswaa",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Seswaa.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Brazil",
+    "Dish": "Feijoada",
+    "Description": "Brazil's famous black bean stew with pork cuts like ribs, sausage and smoked meat, traditionally served on Wednesdays and Saturdays with rice, collards and orange slices.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Feijoada",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Feijoada.jpg",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Brunei",
+    "Dish": "Ambuyat",
+    "Description": "Brunei's sticky sago starch porridge eaten by twirling around bamboo sticks, dipped into flavorful sauces like cacah (spicy fruit sauce).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Ambuyat",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ambuyat.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Bulgaria",
+    "Dish": "Banitsa",
+    "Description": "Flaky Bulgarian pastry made by layering filo dough with whisked eggs and sirene (white brine cheese), often eaten for breakfast with yogurt.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Banitsa",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Banitsa.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Burkina Faso",
+    "Dish": "Riz Gras",
+    "Description": "West African 'fat rice' cooked with tomatoes, onions and meat (usually chicken or mutton) in a rich, oily sauce that gives the dish its name.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Riz_gras",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Riz_gras.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Burundi",
+    "Dish": "Ugali",
+    "Description": "Staple stiff porridge made from cassava or maize flour, served with beans, vegetables or meat stews, eaten throughout East Africa.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Ugali",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ugali_%26_Sukuma_Wiki.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Cabo Verde",
+    "Dish": "Cachupa",
+    "Description": "Cape Verde's slow-cooked corn and bean stew with fish or meat, considered the country's national dish with many regional variations.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Cachupa",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Cachupa.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Cambodia",
+    "Dish": "Amok Trey",
+    "Description": "Cambodia's elegant steamed fish curry wrapped in banana leaves, featuring a delicate blend of lemongrass, kaffir lime and coconut milk.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Amok_trey",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fish_amok.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Cameroon",
+    "Dish": "Ndolé",
+    "Description": "Cameroon's national dish of bitterleaf greens stewed with peanuts, shrimp and meat (usually beef or fish), served with plantains or rice.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Ndol%C3%A9",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ndol%C3%A9.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Canada",
+    "Dish": "Poutine",
+    "Description": "Quebec's famous comfort food of crispy fries topped with cheese curds and smothered in rich brown gravy, now popular nationwide.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Poutine",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Poutine.JPG",
+    "Continent": "North America"
+  },  
+  {
+    "Country": "Central African Republic",
+    "Dish": "Kanda",
+    "Description": "Protein-rich meatballs made from ground beef or game meat, simmered in a flavorful tomato and peanut sauce, typically served with cassava.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Kanda_(food)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Kanda.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Chad",
+    "Dish": "Boule",
+    "Description": "Staple millet or sorghum porridge that forms the base of most Chadian meals, served with sauces made from okra, meat or fish.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Boule_(bread)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Boule.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Chile",
+    "Dish": "Pastel de Choclo",
+    "Description": "Chilean corn pie with a sweet corn crust layered with ground beef, chicken, olives and hard-boiled eggs - a comforting baked dish.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Pastel_de_choclo",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Pastel_de_choclo.jpg",
+    "Continent": "South America"
+  },
+  {
+    "Country": "China",
+    "Dish": "Peking Duck",
+    "Description": "Beijing's iconic dish featuring crispy, lacquered duck skin served with thin pancakes, hoisin sauce and scallions - a ceremonial centerpiece.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Peking_Duck",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Peking_Duck_Dish.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Colombia",
+    "Dish": "Bandeja Paisa",
+    "Description": "Colombia's 'platter of the peasant' - a hearty meal with beans, rice, ground meat, chicharrón, fried egg, plantain and avocado.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Bandeja_paisa",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bandeja_paisa.jpg",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Comoros",
+    "Dish": "Langouste à la Vanille",
+    "Description": "Comorian lobster dish cooked with vanilla pods, garlic and spices - showcasing the islands' prized vanilla and seafood.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Langouste_%C3%A0_la_vanille",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Langouste_vanille.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Congo (Congo-Brazzaville)",
+    "Dish": "Moambe Chicken",
+    "Description": "Signature Congolese dish of chicken stewed in palm nut sauce (moambe) with onions, garlic and chili, served with fufu or rice.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Moambe_chicken",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Moambe_chicken.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Costa Rica",
+    "Dish": "Gallo Pinto",
+    "Description": "Costa Rican breakfast staple of rice and black beans stir-fried with onions, peppers and cilantro, served with eggs and sour cream.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Gallo_Pinto",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Gallo_pinto.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Croatia",
+    "Dish": "Pašticada",
+    "Description": "Dalmatian beef stew marinated in wine and vinegar, slow-cooked with prunes and spices, traditionally served with gnocchi.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Pa%C5%A1ticada",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Pa%C5%A1ticada.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Cuba",
+    "Dish": "Ropa Vieja",
+    "Description": "Cuba's national dish of shredded beef stewed with tomatoes, peppers and onions, whose name means 'old clothes' for its colorful appearance.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Ropa_Vieja",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ropa_Vieja.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Cyprus",
+    "Dish": "Souvla",
+    "Description": "Cypriot barbecue featuring large chunks of marinated pork or lamb slow-roasted on a long skewer over charcoal.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Souvla",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Souvla.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Czech Republic",
+    "Dish": "Svíčková",
+    "Description": "Marinated beef sirloin in creamy vegetable sauce, served with bread dumplings, cranberries and whipped cream - a Czech Sunday classic.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Sv%C3%AD%C4%8Dkov%C3%A1",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Sv%C3%AD%C4%8Dkov%C3%A1.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Denmark",
+    "Dish": "Smørrebrød",
+    "Description": "Open-faced rye bread sandwiches artfully topped with ingredients like pickled herring, roast beef or shrimp - Denmark's edible canvas.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Sm%C3%B8rrebr%C3%B8d",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sm%C3%B8rrebr%C3%B8d.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Djibouti",
+    "Dish": "Skudahkharis",
+    "Description": "Spiced rice dish cooked with meat (usually goat or lamb), onions and tomatoes, influenced by Yemeni and Somali culinary traditions.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Skudahkharis",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Skudahkharis.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Dominica",
+    "Dish": "Mountain Chicken",
+    "Description": "Dominica's national dish featuring legs of the giant ditch frog (called mountain chicken) stewed with garlic, lime and local spices.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Mountain_chicken",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mountain_chicken.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Dominican Republic",
+    "Dish": "La Bandera",
+    "Description": "The 'Dominican flag' meal of rice, red beans, meat (often chicken or beef), salad and fried plantains - the country's daily staple.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/La_bandera_(dish)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/La_Bandera_Dominicana.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Ecuador",
+    "Dish": "Ceviche",
+    "Description": "Ecuadorian version featuring shrimp or fish marinated in lime juice with tomato, onion and cilantro, often served with popcorn or plantain chips.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Ceviche",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ceviche.jpg",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Egypt",
+    "Dish": "Koshari",
+    "Description": "Egypt's beloved street food mixing rice, lentils, pasta and chickpeas, topped with crispy onions and spicy tomato sauce.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Koshari",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Koshary.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "El Salvador",
+    "Dish": "Pupusas",
+    "Description": "Thick corn tortillas stuffed with cheese, beans or meat, served with curtido (pickled cabbage) - El Salvador's national treasure.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Pupusas",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Pupusas.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Dish": "Succotash",
+    "Description": "Adaptation of the American dish featuring lima beans, corn and sometimes meat, reflecting the country's Afro-Spanish influences.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Succotash",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Succotash.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Eritrea",
+    "Dish": "Zigni",
+    "Description": "Spicy Eritrean beef stew simmered with berbere spice mix, tomatoes and onions, traditionally served with injera (sourdough flatbread).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Zigni",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Zigni.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Estonia",
+    "Dish": "Verivorst",
+    "Description": "Estonian blood sausage made with barley and pork blood, traditionally served during Christmas with mulgikapsad (sauerkraut stew).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Verivorst",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Verivorst.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Eswatini",
+    "Dish": "Sishwala",
+    "Description": "Thick porridge made from ground corn, served with meat or vegetable stews - the staple carbohydrate in Swazi cuisine.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Sishwala",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sishwala.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Ethiopia",
+    "Dish": "Doro Wat",
+    "Description": "Ethiopia's famous spicy chicken stew made with berbere spice blend, hard-boiled eggs and niter kibbeh (spiced clarified butter).",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Doro_Wat",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Doro_wat.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Fiji",
+    "Dish": "Kokoda",
+    "Description": "Fijian ceviche where fresh fish is marinated in lime juice and coconut milk with onions, chili and tomatoes - often served in coconut shells.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Kokoda_(food)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Kokoda.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Finland",
+    "Dish": "Karelian Pie",
+    "Description": "Traditional Finnish pastries with thin rye crusts filled with rice porridge or mashed potatoes, often topped with egg butter.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Karelian_pasty",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Karelian_pies.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "France",
+    "Dish": "Coq au Vin",
+    "Description": "Classic French dish of chicken braised in red wine with mushrooms, onions and bacon - a celebration of rustic French cooking.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Coq_au_Vin",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Coq_au_vin_%28cropped%29.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Gabon",
+    "Dish": "Poulet Nyembwe",
+    "Description": "Gabonese chicken dish cooked in palm nut sauce (nyembwe) with onions, garlic and chili - the country's most celebrated culinary specialty.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Poulet_nyembwe",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Poulet_nyembwe.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Gambia",
+    "Dish": "Domoda",
+    "Description": "Gambian peanut stew with meat (usually beef), vegetables and tomato paste, served over rice - the country's comfort food.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Domoda",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Domoda.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Georgia",
+    "Dish": "Khachapuri",
+    "Description": "Georgia's famous cheese-filled bread, with regional varieties like Adjarian khachapuri featuring an egg yolk in the center.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Khachapuri",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Khachapuri.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Germany",
+    "Dish": "Sauerbraten",
+    "Description": "German pot roast marinated for days in vinegar and spices, slow-cooked until tender and served with potato dumplings and red cabbage.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Sauerbraten",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sauerbraten.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Ghana",
+    "Dish": "Fufu",
+    "Description": "Staple dough made by pounding boiled cassava and plantains, served with soups like light soup (tomato-based) or groundnut soup.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Fufu",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fufu.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Greece",
+    "Dish": "Moussaka",
+    "Description": "Layered casserole of eggplant, spiced ground meat and béchamel sauce - Greece's most famous baked dish with Ottoman roots.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Moussaka",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Moussaka.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Grenada",
+    "Dish": "Oil Down",
+    "Description": "Grenada's national one-pot meal of breadfruit, callaloo leaves, coconut milk and salted meat, cooked until the liquid is 'oiled down'.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Oil_down",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Oil_down.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Guatemala",
+    "Dish": "Pepián",
+    "Description": "Ancient Mayan stew blending roasted spices, seeds and chilies with meat (chicken, beef or pork), considered Guatemala's national dish.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Pepi%C3%A1n",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pepi%C3%A1n.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Guinea",
+    "Dish": "Poulet Yassa",
+    "Description": "Marinated grilled chicken with onions, mustard and lemon juice - Guinea's most famous dish with roots in the Casamance region.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Yassa_(food)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Poulet_yassa.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Dish": "Jollof Rice",
+    "Description": "West African one-pot rice dish cooked with tomatoes, onions and spices, often featuring seafood in this coastal version.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Jollof_Rice",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Jollof_rice.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Guyana",
+    "Dish": "Pepperpot",
+    "Description": "Guyanese Amerindian-derived stew of meat (usually beef) cooked with cassareep (cassava extract), cinnamon and hot peppers - a Christmas tradition.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Pepperpot",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Guyanese_pepperpot.jpg",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Haiti",
+    "Dish": "Griot",
+    "Description": "Haitian fried pork chunks marinated in citrus and Scotch bonnet peppers, served with pikliz (spicy pickled vegetables) - the national comfort food.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Griot_(food)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Griot.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Honduras",
+    "Dish": "Baleada",
+    "Description": "Honduran flour tortilla folded with refried beans, cheese and cream - the country's most popular street food, often enhanced with eggs or meat.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Baleada",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Baleada.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Hungary",
+    "Dish": "Goulash",
+    "Description": "Hungary's famous paprika-spiced beef stew with vegetables, originally a herdsman's dish cooked over open fires on the Puszta.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Goulash",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Goulash.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Iceland",
+    "Dish": "Hákarl",
+    "Description": "Fermented Greenland shark with a strong ammonia-rich flavor, traditionally buried for months then air-dried - Iceland's notorious delicacy.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/H%C3%A1karl",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/H%C3%A1karl.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "India",
+    "Dish": "Biryani",
+    "Description": "Fragrant rice dish layered with spiced meat (chicken, mutton or fish), saffron and fried onions - the crown jewel of Mughlai cuisine.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Biryani",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hyderabadi_Chicken_Biryani.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Indonesia",
+    "Dish": "Nasi Goreng",
+    "Description": "Indonesia's famous fried rice cooked with sweet soy sauce, shallots, garlic and chili, often topped with fried egg and prawn crackers.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Nasi_Goreng",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Nasi_goreng.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Iran",
+    "Dish": "Chelow Kabab",
+    "Description": "Iran's national dish pairing saffron-steamed basmati rice (chelow) with grilled meat kababs, often served with grilled tomatoes and sumac.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Chelow_kabab",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chelow_kabab.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Iraq",
+    "Dish": "Masgouf",
+    "Description": "Ancient Mesopotamian dish of butterflied carp grilled over open flames and seasoned with tamarind and olive oil - Baghdad's signature dish.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Masgouf",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Masgouf.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Ireland",
+    "Dish": "Irish Stew",
+    "Description": "Hearty lamb stew with potatoes, onions and carrots, originally a poor man's dish that became Ireland's culinary emblem.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Irish_Stew",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Irish_stew.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Israel",
+    "Dish": "Falafel",
+    "Description": "Crispy fried chickpea balls seasoned with herbs and spices, served in pita with tahini and salads - Israel's most popular street food.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Falafel",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Falafel.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Italy",
+    "Dish": "Pizza Margherita",
+    "Description": "The iconic Neapolitan pizza featuring a thin crust topped with San Marzano tomato sauce, fresh mozzarella, basil leaves, and olive oil - representing the colors of the Italian flag.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Pizza_Margherita",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Supreme_pizza.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Ivory Coast",
+    "Dish": "Attiéké",
+    "Description": "Fermented cassava couscous with a light, fluffy texture, served with grilled fish and spicy onion-tomato sauce - a staple in Ivorian cuisine.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Atti%C3%A9k%C3%A9",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Atti%C3%A9k%C3%A9.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Jamaica",
+    "Dish": "Ackee and Saltfish",
+    "Description": "Jamaica's national dish combining sautéed salted cod with ackee (a buttery tropical fruit), onions, peppers and spices - often served with fried dumplings.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Ackee_and_Saltfish",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ackee_and_saltfish.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Japan",
+    "Dish": "Sushi",
+    "Description": "Vinegared rice combined with fresh seafood (like tuna or salmon) and vegetables, artfully presented as nigiri (hand-pressed) or maki (rolled in seaweed).",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Sushi",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Sushi_platter.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Jordan",
+    "Dish": "Mansaf",
+    "Description": "Jordan's national dish of lamb cooked in fermented dried yogurt (jameed), served over rice on flatbread - a ceremonial Bedouin dish.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Mansaf",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mansaf.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Kazakhstan",
+    "Dish": "Beshbarmak",
+    "Description": "Kazakh 'five fingers' dish of boiled horse or lamb meat served over flat noodles with onion sauce - traditionally eaten with hands.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Beshbarmak",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Beshbarmak.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Kenya",
+    "Dish": "Nyama Choma",
+    "Description": "Kenyan barbecue featuring grilled goat meat seasoned simply with salt, traditionally served with ugali (cornmeal) and kachumbari (tomato-onion salad).",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Nyama_Choma",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nyama_Choma.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Kiribati",
+    "Dish": "Palusami",
+    "Description": "Traditional dish of taro leaves baked with coconut cream, often wrapped in banana leaves - a staple across Pacific island nations.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Palusami",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Palusami.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Korea, North",
+    "Dish": "Naengmyeon",
+    "Description": "Pyongyang's famous cold buckwheat noodles in icy beef broth, served with sliced pears and mustard - a North Korean summer specialty.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Naengmyeon",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Naengmyeon.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Korea, South",
+    "Dish": "Kimchi",
+    "Description": "Spicy fermented vegetables (usually napa cabbage) seasoned with chili, garlic and ginger - the iconic Korean side dish with hundreds of varieties.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Kimchi",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kimchi.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Kosovo",
+    "Dish": "Flija",
+    "Description": "Kosovar layered pancake made by alternating thin crepe-like layers with cream or yogurt - traditionally cooked over an open fire.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Flija",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flija.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Kuwait",
+    "Dish": "Machboos",
+    "Description": "Kuwaiti spiced rice dish with meat (usually chicken or lamb), flavored with loomi (dried lime) and baharat spice blend.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Machboos",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Machboos.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Dish": "Beshbarmak",
+    "Description": "Kyrgyz 'five fingers' dish of boiled horse or lamb meat served over flat noodles with onion sauce - traditionally eaten with hands.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Beshbarmak",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Beshbarmak.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Laos",
+    "Dish": "Larb",
+    "Description": "Laotian minced meat salad flavored with fish sauce, lime juice, ground toasted rice and fresh herbs - considered the country's national dish.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Larb",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Larb.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Latvia",
+    "Dish": "Pelēkie zirņi",
+    "Description": "Traditional Latvian dish of gray peas with fried onions and speck (bacon), often served during winter solstice celebrations.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Pel%C4%93kie_zir%C5%86i",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Pel%C4%93kie_zir%C5%86i.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Lebanon",
+    "Dish": "Kibbeh",
+    "Description": "Lebanon's national dish of bulgur wheat mixed with ground meat (usually lamb) and spices, served raw, baked or fried in various forms.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Kibbeh",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kibbeh.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Lesotho",
+    "Dish": "Papa",
+    "Description": "Stiff maize porridge that forms the base of most Basotho meals, served with meat or vegetable stews - similar to South African pap.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Papa_(food)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Papa.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Liberia",
+    "Dish": "Jollof Rice",
+    "Description": "Liberian version of the West African staple featuring rice cooked in tomato sauce with onions, peppers and often seafood or meat.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Jollof_Rice",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Jollof_rice.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Libya",
+    "Dish": "Bazin",
+    "Description": "Libyan unleavened bread made from barley flour, traditionally served with stews like marqa (meat and vegetable stew).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Bazin_(bread)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bazin.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Liechtenstein",
+    "Dish": "Käsknöpfle",
+    "Description": "Liechtenstein's version of cheese spaetzle - small dumplings mixed with melted cheese and topped with crispy onions.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/K%C3%A4skn%C3%B6pfle",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/K%C3%A4skn%C3%B6pfle.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Lithuania",
+    "Dish": "Cepelinai",
+    "Description": "Lithuanian 'zeppelins' - large potato dumplings stuffed with meat or curd, named for their airship-like shape.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Cepelinai",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Cepelinai.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Luxembourg",
+    "Dish": "Judd mat Gaardebounen",
+    "Description": "Luxembourg's national dish of smoked pork collar served with broad beans in cream sauce and boiled potatoes.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Judd_mat_Gaardebounen",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Judd_mat_Gaardebounen.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Madagascar",
+    "Dish": "Romazava",
+    "Description": "Madagascar's national stew of beef with leafy greens (brèdes), tomatoes and ginger - often considered the country's signature dish.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Romazava",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Romazava.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Malawi",
+    "Dish": "Nsima",
+    "Description": "Malawian staple of thick maize porridge, served with relishes like ndiwo (vegetable stew) or chambo (local fish).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Nsima",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Nsima.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Malaysia",
+    "Dish": "Nasi Lemak",
+    "Description": "Malaysia's national dish of coconut milk rice served with sambal, fried anchovies, peanuts and boiled egg - often called the country's unofficial national dish.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Nasi_Lemak",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nasi_lemak.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Maldives",
+    "Dish": "Mas Huni",
+    "Description": "Traditional Maldivian breakfast of shredded smoked tuna mixed with coconut, onion and chili, served with flatbread (roshi).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Mas_huni",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mas_huni.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Mali",
+    "Dish": "Tigadegena",
+    "Description": "Malian peanut butter sauce served over rice or millet, often made with chicken or beef - similar to West African groundnut stew.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Tigadegena",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tigadegena.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Malta",
+    "Dish": "Fenkata",
+    "Description": "Maltese rabbit stew cooked in wine with garlic and herbs - considered the national dish and centerpiece of traditional feasts.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Fenkata",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Fenkata.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Marshall Islands",
+    "Dish": "Bwiro",
+    "Description": "Traditional fermented breadfruit paste, often wrapped in banana leaves and baked - a staple carbohydrate source in Marshallese cuisine.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Bwiro",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bwiro.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Mauritania",
+    "Dish": "Thieboudienne",
+    "Description": "Mauritanian version of Senegal's national dish - fish and rice cooked with vegetables in a tomato-based sauce.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Thieboudienne",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Thieboudienne.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Mauritius",
+    "Dish": "Dholl Puri",
+    "Description": "Mauritian flatbread stuffed with ground split peas, served with curry - the island's most popular street food with Indian influences.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Dholl_puri",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Dholl_puri.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Mexico",
+    "Dish": "Mole Poblano",
+    "Description": "Complex sauce containing chocolate, chili peppers and spices, traditionally served over turkey or chicken for special occasions like Day of the Dead.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Mole_Poblano",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Chicken_with_mole_poblano.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Micronesia",
+    "Dish": "Kå'du",
+    "Description": "Traditional fermented breadfruit dish, wrapped in banana leaves and left to ferment for weeks - a staple across Micronesian islands.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/K%C3%A5%27du",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/K%C3%A5%27du.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Moldova",
+    "Dish": "Mămăligă",
+    "Description": "Moldovan cornmeal porridge similar to polenta, traditionally served with sour cream, cheese and sometimes meat stews.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/M%C4%83m%C4%83lig%C4%83",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/M%C4%83m%C4%83lig%C4%83.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Monaco",
+    "Dish": "Barbagiuan",
+    "Description": "Monégasque fried pastry stuffed with Swiss chard, ricotta and sometimes meat - the principality's most famous culinary specialty.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Barbagiuan",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Barbagiuan.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Mongolia",
+    "Dish": "Buuz",
+    "Description": "Mongolian steamed dumplings filled with minced mutton or beef and onions - a staple food especially during Lunar New Year celebrations.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Buuz",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Buuz.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Montenegro",
+    "Dish": "Kačamak",
+    "Description": "Montenegrin cornmeal porridge mixed with potatoes and kajmak (creamy dairy product), often served with cured meats or fresh cheese.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Ka%C4%8Damak",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ka%C4%8Damak.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Morocco",
+    "Dish": "Tagine",
+    "Description": "Slow-cooked stew named after the conical clay pot it's cooked in, featuring meat, fruit and spices like saffron and cinnamon.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Tagine",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tagine.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Mozambique",
+    "Dish": "Piri Piri Chicken",
+    "Description": "Spicy grilled chicken marinated in piri piri chili sauce - a dish that originated in Mozambique before becoming famous worldwide.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Piri_piri_chicken",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Piri_piri_chicken.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Myanmar",
+    "Dish": "Mohinga",
+    "Description": "Myanmar's national dish of rice noodles in fish broth flavored with lemongrass, banana stem and chickpea flour - considered the country's breakfast staple.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Mohinga",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mohinga.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Namibia",
+    "Dish": "Kapana",
+    "Description": "Namibian street food of grilled beef cubes, often served with chili sauce and eaten as a quick snack or light meal.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Kapana_(food)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Kapana.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Nauru",
+    "Dish": "Coconut Fish",
+    "Description": "Nauruan dish of fresh reef fish cooked in coconut milk with local spices - reflecting the island's limited agricultural resources.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Coconut_fish",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Coconut_fish.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Nepal",
+    "Dish": "Dal Bhat",
+    "Description": "Nepal's staple meal of lentil soup (dal) served with steamed rice (bhat) and vegetable curries - eaten twice daily by many Nepalis.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Dal_Bhat",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Dal_bhat.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Netherlands",
+    "Dish": "Stamppot",
+    "Description": "Dutch comfort food of mashed potatoes mixed with vegetables like kale or sauerkraut, served with smoked sausage - a winter staple.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Stamppot",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Stamppot.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "New Zealand",
+    "Dish": "Hangi",
+    "Description": "Traditional Māori method of cooking food using heated rocks buried in a pit oven, giving meats and vegetables a distinctive earthy flavor.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Hangi",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Hangi.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Nicaragua",
+    "Dish": "Gallo Pinto",
+    "Description": "Nicaraguan version of rice and beans cooked together with onions and sweet peppers, typically served at breakfast with eggs and cheese.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Gallo_Pinto",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Gallo_pinto.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Niger",
+    "Dish": "Dambou",
+    "Description": "Nigerien dish of millet or sorghum couscous served with vegetables and sometimes meat - a staple across the Sahel region.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Dambou",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Dambou.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Nigeria",
+    "Dish": "Jollof Rice",
+    "Description": "Nigerian version of the West African staple featuring rice cooked in tomato sauce with onions, peppers and often chicken or fish.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Jollof_Rice",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Jollof_rice.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "North Macedonia",
+    "Dish": "Tavče Gravče",
+    "Description": "North Macedonia's national dish of baked beans in an earthenware pot, seasoned with peppers and mint - often called 'the fasting dish'.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Tav%C4%8De_grav%C4%8De",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tav%C4%8De_grav%C4%8De.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Norway",
+    "Dish": "Fårikål",
+    "Description": "Norway's national dish of lamb and cabbage stew seasoned with whole black peppercorns - traditionally eaten in autumn.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/F%C3%A5rik%C3%A5l",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/F%C3%A5rik%C3%A5l.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Oman",
+    "Dish": "Shuwa",
+    "Description": "Omani celebratory dish of spiced meat (usually lamb) wrapped in banana leaves and slow-cooked in an underground sand oven for up to 48 hours.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Shuwa",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Shuwa.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Pakistan",
+    "Dish": "Biryani",
+    "Description": "Pakistani version of the fragrant rice dish layered with spiced meat (usually chicken or mutton), saffron and fried onions.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Biryani",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pakistani_biryani.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Palau",
+    "Dish": "Bat Soup",
+    "Description": "Palauan delicacy of fruit bat cooked in coconut milk, often served whole in the soup - considered a special occasion dish.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Bat_soup",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bat_soup.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Panama",
+    "Dish": "Sancocho",
+    "Description": "Panamanian chicken soup with yam, corn and culantro (sawtooth herb) - considered the country's national comfort food.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Sancocho",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sancocho.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Dish": "Mumu",
+    "Description": "Traditional feast where meat and vegetables are wrapped in banana leaves and cooked in an earth oven - PNG's version of the Pacific hangi.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Mumu_(food)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mumu.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Paraguay",
+    "Dish": "Sopa Paraguaya",
+    "Description": "Paraguayan cornbread made with cheese and onions - despite its name ('Paraguayan soup'), it's actually a solid savory cake.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Sopa_paraguaya",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sopa_paraguaya.jpg",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Peru",
+    "Dish": "Ceviche",
+    "Description": "Peru's national dish of raw fish cured in lime juice with onions, chili peppers and cilantro - considered by many the world's best ceviche.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Ceviche",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Ceviche.jpg",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Philippines",
+    "Dish": "Adobo",
+    "Description": "Philippine cooking method (and dish) where meat is marinated in vinegar, soy sauce, garlic and bay leaves, then braised until tender.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Adobo",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chicken_adobo.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Poland",
+    "Dish": "Bigos",
+    "Description": "Polish 'hunter's stew' of sauerkraut, fresh cabbage and various meats - a dish that improves with each reheating.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Bigos",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Bigos.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Portugal",
+    "Dish": "Bacalhau",
+    "Description": "Portugal's beloved salted cod, prepared in hundreds of ways (most famously Bacalhau à Brás with shredded cod, eggs and potatoes).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Bacalhau",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bacalhau.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Qatar",
+    "Dish": "Machboos",
+    "Description": "Qatari spiced rice dish with meat (usually lamb or chicken), flavored with loomi (dried lime) and baharat spice blend.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Machboos",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Machboos.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Romania",
+    "Dish": "Sarmale",
+    "Description": "Romanian cabbage rolls stuffed with spiced ground meat and rice, traditionally served at Christmas and other celebrations.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Sarmale",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sarmale.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Russia",
+    "Dish": "Borscht",
+    "Description": "Vibrant beet soup with meat and vegetables, served with sour cream and dill - Ukraine also claims this as their national dish.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Borscht",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Borscht.jpg",
+    "Continent": "Europe/Asia"
+  },
+  {
+    "Country": "Rwanda",
+    "Dish": "Ugali",
+    "Description": "Staple stiff porridge made from maize flour, served with beans, vegetables or meat stews - common throughout East Africa.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Ugali",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ugali_%26_Sukuma_Wiki.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Dish": "Goat Water",
+    "Description": "National stew of goat meat cooked with breadfruit, green papaya and dumplings in a thick, spicy broth.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Goat_water",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Goat_water.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Saint Lucia",
+    "Dish": "Green Fig and Saltfish",
+    "Description": "Saint Lucian breakfast staple of boiled green bananas (called figs) served with sautéed salted cod and spices.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Green_fig_and_saltfish",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Green_fig_and_saltfish.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Dish": "Roasted Breadfruit and Jackfish",
+    "Description": "National dish pairing roasted breadfruit with seasoned fried jackfish, reflecting the country's Caribbean culinary traditions.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Roasted_breadfruit_and_jackfish",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Roasted_breadfruit_and_jackfish.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Samoa",
+    "Dish": "Palusami",
+    "Description": "Samoan dish of taro leaves baked with coconut cream, often wrapped in banana leaves - similar to other Pacific island versions.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Palusami",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Palusami.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "San Marino",
+    "Dish": "Torta Tre Monti",
+    "Description": "San Marino's 'Three Mountains Cake' - layered wafers with chocolate and hazelnut cream, representing the country's three peaks.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Torta_Tre_Monti",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Torta_tre_monti.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Dish": "Calulu",
+    "Description": "National dish of smoked fish cooked with okra, eggplant and palm oil, reflecting the islands' Portuguese and African influences.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Calulu",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Calulu.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Dish": "Kabsa",
+    "Description": "Saudi national dish of spiced rice with meat (usually chicken, lamb or camel), flavored with black lime and bay leaves.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Kabsa",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kabsa.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Senegal",
+    "Dish": "Thieboudienne",
+    "Description": "Senegal's national dish of fish and rice cooked with vegetables in tomato sauce - considered the country's culinary emblem.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Thieboudienne",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Thieboudienne.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Serbia",
+    "Dish": "Ćevapi",
+    "Description": "Serbian grilled minced meat sausages made from beef and lamb, served in somun (flatbread) with raw onions and kajmak (creamy dairy spread).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/%C4%86evapi",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/%C4%86evapi.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Seychelles",
+    "Dish": "Fish Curry",
+    "Description": "Seychellois version of curry featuring fresh local fish cooked in coconut milk with curry leaves and spices - served with rice.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Fish_curry",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fish_curry.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Sierra Leone",
+    "Dish": "Cassava Leaves",
+    "Description": "Sierra Leonean stew of pounded cassava leaves cooked with palm oil, fish or meat, and spices - the country's most popular dish.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Cassava_leaves",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Cassava_leaves.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Singapore",
+    "Dish": "Chicken Rice",
+    "Description": "Singapore's national dish of poached chicken served with fragrant rice cooked in chicken stock, accompanied by chili sauce and ginger paste.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Hainanese_chicken_rice",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Hainanese_chicken_rice.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Slovakia",
+    "Dish": "Bryndzové Halušky",
+    "Description": "Slovak national dish of potato dumplings (halušky) mixed with sheep cheese (bryndza) and topped with fried bacon bits.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Bryndzov%C3%A9_halu%C5%A1ky",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bryndzov%C3%A9_halu%C5%A1ky.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Slovenia",
+    "Dish": "Idrijski Žlikrofi",
+    "Description": "Slovenian dumplings from Idrija, stuffed with potato, bacon and herbs, traditionally served with bakalca (lamb stew).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Idrijski_%C5%BDlikrofi",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Idrijski_%C5%BDlikrofi.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Solomon Islands",
+    "Dish": "Poi",
+    "Description": "Traditional Polynesian staple of fermented taro root paste, similar to Hawaiian poi but with a thicker consistency in the Solomon version.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Poi_(food)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Poi.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Somalia",
+    "Dish": "Canjeero",
+    "Description": "Somali fermented flatbread similar to Ethiopian injera but thinner, traditionally served with stews for breakfast.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Canjeero",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Canjeero.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "South Africa",
+    "Dish": "Bobotie",
+    "Description": "South Africa's national dish of spiced minced meat baked with an egg topping - a legacy of Cape Malay cuisine with Indonesian roots.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Bobotie",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bobotie.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "South Sudan",
+    "Dish": "Kisra",
+    "Description": "South Sudanese fermented sorghum flatbread, served with stews like wal wal (okra stew) or mullah (meat stew).",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Kisra",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Kisra.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Spain",
+    "Dish": "Paella",
+    "Description": "Valencian rice dish cooked in a wide shallow pan, traditionally with rabbit and snails (paella valenciana) or seafood (paella de mariscos).",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Paella",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Paella.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Sri Lanka",
+    "Dish": "Rice and Curry",
+    "Description": "Sri Lankan staple meal featuring rice served with multiple curries (meat, fish or vegetable) and accompaniments like sambols and pickles.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Rice_and_curry",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sri_Lankan_rice_and_curry.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Sudan",
+    "Dish": "Ful Medames",
+    "Description": "Sudanese breakfast staple of mashed fava beans seasoned with garlic, lemon and cumin, often served with bread and eggs.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Ful_medames",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Ful_medames.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Suriname",
+    "Dish": "Pom",
+    "Description": "Surinamese oven dish of pomtajer (taro root) and chicken, reflecting the country's Jewish and Creole culinary influences.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Pom_(dish)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Pom.jpg",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Sweden",
+    "Dish": "Köttbullar",
+    "Description": "Swedish meatballs made with a mix of beef and pork, served with gravy, lingonberry jam and potatoes - made famous globally by IKEA.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Swedish_meatballs",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/K%C3%B6ttbullar.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Switzerland",
+    "Dish": "Fondue",
+    "Description": "Swiss melted cheese dish served in a communal pot (caquelon) with bread for dipping - originally a way to use aged cheeses in winter.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Fondue",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fondue.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Syria",
+    "Dish": "Kibbeh",
+    "Description": "Syrian national dish of bulgur wheat mixed with ground meat (usually lamb) and spices, served raw, baked or fried in various forms.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Kibbeh",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kibbeh.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Taiwan",
+    "Dish": "Beef Noodle Soup",
+    "Description": "Taiwan's national dish featuring tender beef shank in rich broth with noodles, often considered the country's unofficial national dish.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Taiwanese_beef_noodle_soup",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Taiwanese_beef_noodle_soup.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Tajikistan",
+    "Dish": "Plov",
+    "Description": "Tajikistan's version of Central Asian rice pilaf, typically made with lamb, carrots and cumin - the country's most celebrated dish.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Plov",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tajik_plov.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Tanzania",
+    "Dish": "Ugali",
+    "Description": "Staple stiff porridge made from maize flour, served with meat, fish or vegetable stews - the foundation of Tanzanian meals.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Ugali",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Ugali_%26_Sukuma_Wiki.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Thailand",
+    "Dish": "Pad Thai",
+    "Description": "Thailand's famous stir-fried rice noodles with eggs, tofu and shrimp, flavored with tamarind, fish sauce and chili - the country's culinary ambassador.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Pad_Thai",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Pad_Thai_kung_Chang_Khien_street_stall.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Togo",
+    "Dish": "Fufu",
+    "Description": "Staple dough made by pounding boiled cassava and plantains, served with soups like light soup (tomato-based) or groundnut soup.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Fufu",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Fufu.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Tonga",
+    "Dish": "Lu Pulu",
+    "Description": "Tongan dish of corned beef and taro leaves baked in coconut milk and onions, wrapped in banana leaves - a legacy of colonial influences.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Lu_pulu",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Lu_pulu.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Dish": "Callaloo",
+    "Description": "Trinidadian dish of dasheen leaves cooked with okra, coconut milk and crab - the country's national dish with African roots.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Callaloo",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Callaloo.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Tunisia",
+    "Dish": "Couscous",
+    "Description": "Tunisian version of the North African staple, often served with fish or lamb and flavored with harissa (chili paste).",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Couscous",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Couscous-1.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Turkey",
+    "Dish": "Kebap",
+    "Description": "Turkish grilled meat dishes including döner (rotisserie), şiş (skewered) and Adana (spicy minced meat) - central to Turkish cuisine.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Kebap",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Adana_kebab.jpg",
+    "Continent": "Asia/Europe"
+  },
+  {
+    "Country": "Turkmenistan",
+    "Dish": "Plov",
+    "Description": "Turkmen version of Central Asian rice pilaf, often featuring carrots, mutton and sometimes dried fruits - the country's most important dish.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Plov",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Turkmen_plov.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Tuvalu",
+    "Dish": "Pulaka",
+    "Description": "Traditional Tuvaluan staple of swamp taro grown in pits, serving as the main carbohydrate source on the coral atolls.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Pulaka",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Pulaka.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Uganda",
+    "Dish": "Matoke",
+    "Description": "Ugandan staple of steamed green bananas, often mashed and served with meat or bean stews - the country's most important dish.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Matoke",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Matoke.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Ukraine",
+    "Dish": "Borscht",
+    "Description": "Ukrainian beet soup with meat and vegetables, served with sour cream and garlic fritters (pampushky) - a point of national pride.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Borscht",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Borscht.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Dish": "Harees",
+    "Description": "Emirati dish of wheat and meat (usually chicken or lamb) cooked to a porridge-like consistency - traditionally served during Ramadan.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Harees",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Harees.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "United Kingdom",
+    "Dish": "Fish and Chips",
+    "Description": "British classic of beer-battered fish (usually cod or haddock) with thick-cut fries, traditionally wrapped in newspaper.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Fish_and_Chips",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Fish_and_chips.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "United States",
+    "Dish": "Hamburger",
+    "Description": "American icon of a ground beef patty in a bun, customizable with endless toppings - representing the country's fast food culture.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Hamburger",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Hamburger.jpg",
+    "Continent": "North America"
+  },
+  {
+    "Country": "Uruguay",
+    "Dish": "Chivito",
+    "Description": "Uruguayan sandwich of steak, ham, cheese, egg and toppings - the country's national dish despite its name meaning 'little goat'.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Chivito_(sandwich)",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chivito.jpg",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Uzbekistan",
+    "Dish": "Plov",
+    "Description": "Uzbekistan's national dish of rice cooked with lamb, carrots and spices in a kazan (cauldron) - the centerpiece of any celebration.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Plov",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Uzbek_plov.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Vanuatu",
+    "Dish": "Laplap",
+    "Description": "Vanuatu's national dish of grated root vegetables (yam, taro or manioc) mixed with coconut milk and meat, wrapped in banana leaves and baked.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Laplap",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Laplap.jpg",
+    "Continent": "Oceania"
+  },
+  {
+    "Country": "Vatican City",
+    "Dish": "Pasta",
+    "Description": "While not a country with its own cuisine, Vatican meals typically feature Italian pasta dishes like fettuccine or gnocchi.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Pasta",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pasta.jpg",
+    "Continent": "Europe"
+  },
+  {
+    "Country": "Venezuela",
+    "Dish": "Pabellón Criollo",
+    "Description": "Venezuela's national dish of shredded beef, black beans, rice and fried plantains - representing the country's cultural mix.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Pabell%C3%B3n_criollo",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pabell%C3%B3n_criollo.jpg",
+    "Continent": "South America"
+  },
+  {
+    "Country": "Vietnam",
+    "Dish": "Phở",
+    "Description": "Vietnam's famous noodle soup with aromatic broth, rice noodles and herbs - the country's culinary ambassador to the world.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Ph%E1%BB%9F",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pho.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Yemen",
+    "Dish": "Saltah",
+    "Description": "Yemeni national dish of meat stew (usually lamb) with hilbeh (fenugreek froth) and sahawiq (chili paste), served in a stone bowl.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Saltah",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Saltah.jpg",
+    "Continent": "Asia"
+  },
+  {
+    "Country": "Zambia",
+    "Dish": "Nshima",
+    "Description": "Zambian staple of thick maize porridge, served with relishes like vegetables, meat or fish - eaten with the hands.",
+    "Recipe Link": "https://en.wikipedia.org/wiki/Nshima",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Nshima.jpg",
+    "Continent": "Africa"
+  },
+  {
+    "Country": "Zimbabwe",
+    "Dish": "Sadza",
+    "Description": "Zimbabwean version of maize porridge, similar to nshima, served with meat, vegetables or fermented milk - the country's staple food.",
+    "Recipe Link": "https://en.wikibooks.org/wiki/Cookbook:Sadza",
+    "Image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Sadza.jpg",
+    "Continent": "Africa"
+  }
+]
