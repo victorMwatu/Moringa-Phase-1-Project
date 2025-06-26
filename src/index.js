@@ -1,6 +1,6 @@
 //Variable declaration 
 const fourGrid = document.getElementById('fourGrid');
-const API_URL = "http://localhost:3000/countries";
+const API_URL = "https://worldflavors.onrender.com/countries";
 
 document.addEventListener('DOMContentLoaded', main);
 
