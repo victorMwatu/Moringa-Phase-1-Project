@@ -255,6 +255,7 @@ body::before {
   padding: 0;
   font: inherit;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .card-button:focus {

@@ -32,6 +32,7 @@ function renderCountryCards(countryArray) {
               <span class="star" data-value="5">★</span>
           </div>
           <button class="card-button"> 💬 Comment</button>
+          <a href="${country['Recipe Link']}" target="_blank" class="card-button">📖 Recipe Link</a>
       </div>
       <div class="comment-section" tabindex="0">
           <div class="comment-list"></div>
@@ -39,6 +40,7 @@ function renderCountryCards(countryArray) {
               <input type="text" class="comment-name" placeholder="Your name" />
               <textarea class="comment-text" rows="2" placeholder="Your comment..."></textarea>
               <button class="submit-comment card-button">Post</button>
+              
           </div>
       </div>
     `;
